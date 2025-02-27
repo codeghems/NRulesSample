@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RjN0/gbNcQ=",
+  "success": true,
+  "projectFilePath": "C:\\Git Folder\\NRulesSample\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EmaChoi(EACO)\\.nuget\\packages\\nrules\\0.9.4\\nrules.0.9.4.nupkg.sha512",
+    "C:\\Users\\EmaChoi(EACO)\\.nuget\\packages\\nrules.fluent\\0.9.4\\nrules.fluent.0.9.4.nupkg.sha512",
+    "C:\\Users\\EmaChoi(EACO)\\.nuget\\packages\\nrules.rulemodel\\0.9.4\\nrules.rulemodel.0.9.4.nupkg.sha512",
+    "C:\\Users\\EmaChoi(EACO)\\.nuget\\packages\\nrules.runtime\\0.9.4\\nrules.runtime.0.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}

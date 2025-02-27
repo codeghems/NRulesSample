@@ -1,0 +1,40 @@
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRules.Fluent.dll
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRules.RuleModel.dll
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRules.dll
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRulesSample.dll
+C:\Projects\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRulesSample.pdb
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Projects\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRules.Fluent.dll
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRules.RuleModel.dll
+C:\Git Folder\NRulesSample\ConsoleApp1\bin\Debug\net8.0\NRules.dll
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Git Folder\NRulesSample\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
